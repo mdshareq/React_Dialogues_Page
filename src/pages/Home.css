@@ -1,0 +1,22 @@
+.home .card {
+  background-color: #fef9ef;
+  padding: 13px 20px;
+  border: 1px solid #beb7b7;
+  border-radius: 10px;
+  box-shadow: 4px 4px 6px rgb(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
+.home h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 3em;
+  color: rgb(255, 255, 255);
+}
+.home .read-more{
+  color: rgb(133, 124, 124);
+  text-decoration: none;
+}
+.home .read-more:hover{
+  color: rgb(46, 159, 211);
+  text-decoration: none;
+}

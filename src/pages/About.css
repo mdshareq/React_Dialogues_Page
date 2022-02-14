@@ -1,0 +1,16 @@
+.about {
+  text-align: center;
+    background-color: #FEF9EF;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px rgb(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+  }
+  .about p{
+    margin-bottom: 50px;
+  }
+  .about img{
+    max-width: 600px;
+    border-radius: 15px;
+  }
+  

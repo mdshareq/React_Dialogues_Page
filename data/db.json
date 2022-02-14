@@ -1,0 +1,22 @@
+{
+  "dialogues": [
+    {
+      "id": "1",
+      "title": "I'm going to make him an offer…",
+      "author": "The Godfather",
+      "body": "Francis Ford Coppola's The Godfather set the bar for gangster flicks. It depicted an organized crime family as the patriarch transfers his empire to his son. The movie is a brilliant depiction of dialogue in film and is included here for the line of dialogue above."
+    },
+    {
+      "id": "2",
+      "title": "I coulda been a contender…",
+      "author": "On the Waterfront",
+      "body": "Marlon Brando was one of the best actors in the history of film. His performance in On the Waterfront is one of his best. The film won eight Oscars. It depicts the life of an ex-prize fighter while he struggles as a longshoreman to stand up to corrupt union bosses. This line is legendary."
+    },
+    {
+      "id": "3",
+      "title": "You're gonna need a bigger boat…",
+      "author": "Jaws",
+      "body": "The making of Jaws had many trials that shaped the final film. And this iconic line in the movie has an interesting backstory of its own. The film launched the concept of the summer Blockbuster, and this line will forever be in movie history."
+    }
+  ]
+}

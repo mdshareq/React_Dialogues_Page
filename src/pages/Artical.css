@@ -1,0 +1,24 @@
+.aritcal-preview {
+  margin: auto;
+  background-color: #fef9ef;
+  max-width: 700px;
+  padding: 50px;
+  border: 1px solid #beb7b7;
+  border-radius: 10px;
+  box-shadow: 4px 4px 6px rgb(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
+
+.aritcal-preview button {
+  margin-top: 20px;
+  border: 0px;
+  background-color: #333;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 6px 10px;
+}
+.aritcal-preview button:hover{
+  border: 0px;
+  background-color: rgb(255, 0, 0);
+}
+
