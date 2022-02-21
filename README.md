@@ -25,3 +25,6 @@
 #Create - Page
 
 ![Create_Dialogues](https://user-images.githubusercontent.com/99613527/153850925-fc57274a-9b03-4b13-8609-fedb15df7ffb.PNG)
+
+![TheDialouges](https://user-images.githubusercontent.com/99613527/154933439-59aa0bd1-4c0d-47a6-a24b-f607ab6f95f6.png)
+
